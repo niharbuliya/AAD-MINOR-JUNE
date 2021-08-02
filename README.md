@@ -1,10 +1,25 @@
-# task3
+# AAD-MINOR-JUNE
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+Programming Language
+  Dart
+
+IDE for development
+  VsCode
+  Android Studio
+  intellij
+
+
+✨ Requirements
+  Any Operating System (ie. MacOS X, Linux, Windows)
+  Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)  
+  A little knowledge of Dart and Flutter
+  A brain to think
 
 A few resources to get you started if this is your first Flutter project:
 
